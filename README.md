@@ -1,3 +1,5 @@
+<img src="banner.png" alt="GitHub Banner" width="100%" />
+
 # About Me:
 I’m looking to collaborate on innovative AI projects <br>🙋‍♀️ I’m looking for help with optimizing LLM pipelines and integrating quantum approaches into NLP tasks. <br>🌱 I’m currently learning advanced techniques in parameter-efficient fine-tuning (PEFT), Qiskit for quantum programming. <br>⚡ Fun fact: I’m obsessed with the idea that the secrets of the universe, AI, and quantum mechanics are deeply connected — and I’m on a mission to decode them, one experiment at a time!
 
