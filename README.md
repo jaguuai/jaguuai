@@ -1,4 +1,4 @@
-<img src="banner.png" alt="GitHub Banner" width="100%" />
+<img src="banner.jpg" alt="GitHub Banner" width="100%" />
 
 # Ayşe Yılmaz
 
@@ -6,7 +6,7 @@
 
 I develop production-grade AI applications with a focus on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Multi-Agent Systems, and Intelligent Document Processing.
 
-My current research explores the intersection of Artificial Intelligence and Quantum Computing, with a particular interest in Quantum Machine Learning, hybrid quantum-classical architectures, and efficient optimization techniques.
+My research interests lie at the intersection of Artificial Intelligence and Quantum Computing, with a focus on Quantum Machine Learning, hybrid quantum-classical architectures, and efficient optimization techniques.
 
 ---
 
@@ -28,16 +28,6 @@ My current research explores the intersection of Artificial Intelligence and Qua
 
 ---
 
-## Current Focus
-
-- Production-ready LLM applications
-- Agentic AI workflows
-- Parameter-Efficient Fine-Tuning (PEFT)
-- Quantum Machine Learning with Qiskit and PennyLane
-- Hybrid Classical–Quantum AI Systems
-
----
-
 ## Technology Stack
 
 ### Languages
@@ -50,13 +40,13 @@ PyTorch • TensorFlow • scikit-learn • LangChain • Hugging Face • OpenA
 Qiskit • PennyLane
 
 ### Backend
-FastAPI • Django • REST APIs • Streamlit
+FastAPI • REST APIs • Streamlit
 
 ### Databases
 Neo4j • PostgreSQL • MySQL
 
-### Cloud & DevOps
-AWS • Azure • Google Cloud • Git • GitHub Actions
+### Cloud & Tools
+AWS • Git
 
 ---
 
